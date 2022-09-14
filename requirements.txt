@@ -1,10 +1,7 @@
 tensorflow
 fastapi
 uvicorn
-python-multipart
-io
 pillow
-matplotlib
 numpy
 keras
 python
