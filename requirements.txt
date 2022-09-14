@@ -6,3 +6,5 @@ io
 pillow
 matplotlib
 numpy
+keras
+python
